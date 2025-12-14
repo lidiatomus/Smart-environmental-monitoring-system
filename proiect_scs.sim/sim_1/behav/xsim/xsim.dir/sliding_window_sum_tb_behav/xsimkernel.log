@@ -1,0 +1,7 @@
+Running: xsim.dir/sliding_window_sum_tb_behav/xsimk.exe -simmode gui -wdb sliding_window_sum_tb_behav.wdb -simrunnum 0 -socket 54290
+Design successfully loaded
+Design Loading Memory Usage: 10420 KB (Peak: 10420 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 10936 KB (Peak: 10936 KB)
+Simulation CPU Usage: 15 ms

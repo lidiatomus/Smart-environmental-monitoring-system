@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "sliding_window_sum_tb_behav" "xil_defaultlib.sliding_window_sum_tb" -log "elaborate.log" 

@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "MA_Filter_TB_behav" "xil_defaultlib.MA_Filter_TB" -log "elaborate.log" 

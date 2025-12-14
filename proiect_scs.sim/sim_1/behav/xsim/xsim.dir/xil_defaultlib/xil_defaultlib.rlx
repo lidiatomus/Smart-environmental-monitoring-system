@@ -1,0 +1,19 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sim_1/imports/new/sliding_window_sum_tb.vhd,1763039872,vhdl,,,,sliding_window_sum_tb,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sim_1/new/final_top_tb.vhd,1765739574,vhdl,,,,final_top_tb,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sim_1/new/ma_tb.vhd,1764939713,vhdl,,,,tb_ma_filter,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sim_1/new/trend_tb.vhd,1764991173,vhdl,,,,trend_detector_tb,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sim_1/new/uart_tb.vhd,1763379104,vhdl,,,,uart_tb,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sim_1/new/zscore_tb.vhd,1765194957,vhdl,,,,zscore_anomalydetector_tb,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/imports/new/sliding_window_adder.vhd,1763039205,vhdl,,,,sliding_window_adder,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/MA_Filter.vhd,1764939978,vhdl,C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/final_tb_pipeline.vhd,,,ma_filter,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/final_tb_pipeline.vhd,1765738567,vhdl,C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sim_1/new/final_top_tb.vhd,,,final_top,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/fsm_decoder.vhd,1764990175,vhdl,C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/final_tb_pipeline.vhd,,,packet_fsm_decoder,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/pid.vhd,1765195741,vhdl,C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/final_tb_pipeline.vhd,,,pid_controller,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/trend_detector.vhd,1764990714,vhdl,C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/final_tb_pipeline.vhd,,,trend_detector,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/uart_rx.vhd,1763452816,vhdl,C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/final_tb_pipeline.vhd,,,uart_rx,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/uart_tx.vhd,1763399208,vhdl,,,,uart_tx,,,,,,,,
+C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/z_score.vhd,1765193813,vhdl,C:/LIDIA/Poli/anul3/scs/proiect_scs/proiect_scs.srcs/sources_1/new/final_tb_pipeline.vhd,,,zscore_anomalydetector,,,,,,,,
