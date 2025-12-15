@@ -1,4 +1,5 @@
-# Smart-environmental-monitoring-system -> FPGA Sensor Processing Pipeline – README
+# Smart-environmental-monitoring-system 
+FPGA Sensor Processing Pipeline 
 
 ## Project Overview
 
